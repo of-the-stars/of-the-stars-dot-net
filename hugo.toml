@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://of-the-stars.net/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Constellation of Thought'
+theme = 'PaperMod'
