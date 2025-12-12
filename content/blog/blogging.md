@@ -10,9 +10,7 @@ description = "An exploration of a medium I am learning about."
 [params]
   author = 'Stell'
 
-tags = [
-  writing,
-]
+tags = [writing]
 +++
 
 I must admit this whole endeavor is a bit intimidating.
