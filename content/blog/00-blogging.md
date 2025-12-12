@@ -1,8 +1,7 @@
 +++
-title = '00 Blogging'
-date = "2025-12-12T11:25:00-06:00"
+title = "00 Blogging"
+date = "2025-12-12T05:53:13-06:00"
 
-#
 # description is optional
 #
 # description = "An optional description for SEO. If not provided, an automatically created summary will be used."
@@ -10,7 +9,7 @@ description = "An exploration of a medium I am learning about."
 [params]
   author = 'Stell'
 
-tags = [ "writing" ]
+tags = [ "writing", "the-web", "myself" ]
 +++
 
 I must admit this whole endeavor is a bit intimidating.
