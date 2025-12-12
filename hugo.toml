@@ -1,6 +1,7 @@
 baseURL = "https://of-the-stars.net/"
 languageCode = "en-us"
 title = "Of The Stars"
+weight = 100
 author = "Stellae"
 copyright = "Copyright © 2025, Stellae."
 # theme = 'PaperMod'
