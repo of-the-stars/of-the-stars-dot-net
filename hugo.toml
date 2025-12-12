@@ -3,9 +3,9 @@ languageCode = "en-us"
 title = "Of The Stars"
 weight = 100
 author = "Stellae"
-copyright = "Copyright © 2025, Stellae."
+copyright = "Copyright © 2025, Of The Stars."
 # theme = 'PaperMod'
-theme = "hugo-bearblog"
+theme = "hugo-wassail"
 
 [params]
 hideMadeWithLine = true
