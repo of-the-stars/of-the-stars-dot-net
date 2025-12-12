@@ -6,12 +6,15 @@ author = "Stellae"
 copyright = "Copyright © 2025, Of The Stars."
 # theme = 'PaperMod'
 theme = "hugo-wassail"
-
-[params]
-hideMadeWithLine = true
-dateFormat = "YYYY-MM-DD"
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
+
+[params]
+description = "My personal blog"
+title = "Of The Stars"
+hideMadeWithLine = true
+dateFormat = "2006-01-02"
+enablePostNavigator = true
 
 [markup]
 [markup.highlight]
