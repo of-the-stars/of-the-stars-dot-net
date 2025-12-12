@@ -1,5 +1,20 @@
-baseURL = 'https://of-the-stars.net/'
-languageCode = 'en-us'
-title = 'Constellation of Thought'
-theme = 'PaperMod'
-# theme = 'hugo-bearcub'
+baseURL = "https://of-the-stars.net/"
+languageCode = "en-us"
+title = "Of The Stars"
+author = "Stellae"
+copyright = "Copyright © 2025, Stellae."
+# theme = 'PaperMod'
+theme = "hugo-bearblog"
+
+[params]
+hideMadeWithLine = true
+dateFormat = "YYYY-MM-DD"
+# Generate a nice robots.txt for SEO
+enableRobotsTXT = true
+
+[markup]
+[markup.highlight]
+style = "friendly"
+lineNos = true
+lineNumbersInTable = false
+codeFences = true
