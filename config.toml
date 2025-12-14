@@ -42,3 +42,7 @@ url = "@/_index.md"
 [[extra.main_menu]]
 name = "Blog"
 url = "@/blog/_index.md"
+
+[[extra.main_menu]]
+name = "Feed"
+url = "/atom.xml"
