@@ -1,7 +1,7 @@
 test:
         zola serve --open --drafts
 deploy:
-        zola built
+        zola build
         neocities push public --prune
 clean:
         rm public -r
