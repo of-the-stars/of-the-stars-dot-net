@@ -1,9 +1,7 @@
 test:
-        hugo serve -OD
-preview:
-        hugo serve -O
+        zola serve --open --drafts
 deploy:
-        hugo
+        zola built
         neocities push public --prune
 clean:
         rm public -r

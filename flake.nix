@@ -24,8 +24,8 @@
           with pkgs;
           mkShell {
             buildInputs = [
-              hugo
               neocities
+              zola
               just
             ];
             shellHook = '''';
