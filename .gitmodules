@@ -1,0 +1,3 @@
+[submodule "themes/zola-wassail"]
+	path = themes/zola-wassail
+	url = git@github.com:of-the-stars/zola-wassail.git
