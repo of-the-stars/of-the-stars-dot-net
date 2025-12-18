@@ -1,6 +1,6 @@
 +++
 title = "01 Nix and I"
-date = "2025-12-13T02:53:35-06:00"
+date = "2025-12-17"
 
 description = "My experience with and thoughts on my favorite distro."
 [params]
