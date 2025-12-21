@@ -1,6 +1,6 @@
 +++
 title = "00 Blogging"
-date = "2025-12-12T05:53:13-06:00"
+date = "2025-12-12"
 
 description = "An exploration of a medium I am learning about."
 [params]
