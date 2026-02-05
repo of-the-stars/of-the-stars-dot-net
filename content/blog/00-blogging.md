@@ -4,7 +4,7 @@ date = "2025-12-12"
 
 description = "An exploration of a medium I am learning about."
 [params]
-  author = 'Stell'
+  author = 'Stellae'
 
 tags = [ "writing", "the-web", "myself" ]
 +++

@@ -30,7 +30,6 @@
             ];
             shellHook = '''';
           };
-        # source <(hugo completion zsh)
 
         # packages.default = derivation {
         #   inherit system name src;

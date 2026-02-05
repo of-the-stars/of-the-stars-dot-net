@@ -4,7 +4,7 @@ date = "2025-12-17"
 
 description = "My experience with and thoughts on my favorite distro."
 [params]
-  author = 'Stell'
+  author = 'Stellae'
 
 tags = ["myself","nix", "linux"]
 +++
