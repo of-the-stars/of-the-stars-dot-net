@@ -2,6 +2,8 @@
 title = "04 Embedded Rust Plus Nix, pt. 1"
 date = "2026-03-03"
 
+draft = true
+
 description = "Building an embedded Rust workflow with Nix for the Arduino Uno."
 [params]
   author = 'Stellae'
