@@ -1,5 +1,5 @@
 +++
-title = "Of The Stars"
+title = "Home"
 weight = 0
 +++
 
