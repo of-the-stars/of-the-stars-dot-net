@@ -2,7 +2,7 @@
 title = "01 Nix and I"
 date = "2025-12-17"
 
-description = "My experience with and thoughts on my favorite distro."
+description = "My experience with and thoughts on my favorite build system and distro."
 [params]
   author = 'Stellae'
 
