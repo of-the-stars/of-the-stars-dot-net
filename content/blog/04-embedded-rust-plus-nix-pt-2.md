@@ -1,5 +1,5 @@
 +++
-title = "04 Embedded Rust Plus Nix, pt. 1"
+title = "04 Embedded Rust Plus Nix, pt. 2"
 date = "2026-03-03"
 
 draft = true

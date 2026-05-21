@@ -11,5 +11,7 @@ description = "Managing a NixOS machine for someone who'd never used Linux befor
 tags = ["myself","nix", "linux", "nixos", "flatpak"]
 +++
 
-https://www.youtube.com/watch?v=FDY-x_hvj1o
-https://github.com/gmodena/nix-flatpak
+## TL;DR
+
+[2023 NixCon talk by Martin Wimpress](https://www.youtube.com/watch?v=FDY-x_hvj1o
+)

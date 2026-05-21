@@ -3,7 +3,7 @@ title = "Home"
 weight = 0
 +++
 
-Hello there! My name is Stellae. It means "Of The Stars" in Latin. :]
+Hello there, call me Stellae! It means "Of The Stars" in Latin. :]
 
 My main interests are low-level programming and the Nix build system. My career goal is to program for and create embedded devices to use in scientific data collection, specifically within marine or extraterrestrial environments.
 
