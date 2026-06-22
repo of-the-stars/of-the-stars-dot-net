@@ -83,6 +83,7 @@ Now that I've built this workflow, it's gonna be time to actually put it to the 
 
 ## Resources I Used
 
+- [An email correspondence with Patryk Wychowaniec, maintainer of the `avr-none` Rust targer](https://pwy.io/)
 - [oxalica Rust overlay rust-bin cheatsheet](https://github.com/oxalica/rust-overlay?tab=readme-ov-file#cheat-sheet-common-usage-of-rust-bin)
 - [oxalica Rust overlay cross compilation examples](https://github.com/oxalica/rust-overlay/blob/master/examples/cross-aarch64/flake.nix)
 - [oxalica Rust overlay cross compilation docs](https://github.com/oxalica/rust-overlay/blob/master/docs/cross_compilation.md)
